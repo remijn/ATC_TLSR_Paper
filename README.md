@@ -74,9 +74,10 @@ This firmware requires hardware based on the TLSR8359 chip, which is usually the
 
 The following models have been confirmed to work:
 
-Name                       |Display                       |  Case front               |  Case back
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-Stellar-MFN@ E31A | 2,13" 212x104 |  ![](/Compatible_models/Stellar-MFN%40_Front.jpg)|  ![](/Compatible_models/Stellar-MFN%40_Back.jpg)
-Stellar-M3N@ E31HA | 2,13" 250x122 | ![](/Compatible_models/Stellar-M3N%40_Front.jpg)|  ![](/Compatible_models/Stellar-M3N%40_Back.jpg)
-Stellar-MN@ E31H | 2,13" 250x122 | ![](/Compatible_models/Stellar-MN%40_Front.jpg)|  ![](/Compatible_models/Stellar-MN%40_Back.jpg)
-Stellar-S3TN@ E31HA | 1,54" 200x200 | ![](/Compatible_models/Stellar-S3TN%40_Front.jpg)|  ![](/Compatible_models/Stellar-S3TN%40_Back.jpg)
+|        Name         |    Display    |                    Case front                     |                    Case back                     |
+| :-----------------: | :-----------: | :-----------------------------------------------: | :----------------------------------------------: |
+|  Stellar-MFN@ E31A  | 2,13" 212x104 | ![](/Compatible_models/Stellar-MFN%40_Front.jpg)  | ![](/Compatible_models/Stellar-MFN%40_Back.jpg)  |
+| Stellar-M3N@ E31HA  | 2,13" 250x122 | ![](/Compatible_models/Stellar-M3N%40_Front.jpg)  | ![](/Compatible_models/Stellar-M3N%40_Back.jpg)  |
+|  Stellar-MN@ E31H   | 2,13" 250x122 |  ![](/Compatible_models/Stellar-MN%40_Front.jpg)  |  ![](/Compatible_models/Stellar-MN%40_Back.jpg)  |
+| Stellar-S3TN@ E31HA | 1,54" 200x200 | ![](/Compatible_models/Stellar-S3TN%40_Front.jpg) | ![](/Compatible_models/Stellar-S3TN%40_Back.jpg) |
+
