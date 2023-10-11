@@ -1,8 +1,11 @@
 Firmware/out/*
 Firmware/tc32_linux
 Firmware/tc32_windows
+Firmware/ATC_Paper.bin
+Firmware/ATC_Paper_bt.bin
 flashing
 flash.bat
 Firmware_test_gpio
 .vscode
 HanshowFlasher
+log.txt
